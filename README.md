@@ -16,5 +16,4 @@ Website URL: https://www.fragrancenet.com/
 
 Axure Prototype: https://7fql27.axshare.com/
 
-Participants videos: https://drive.google.com/drive/folders/1-
-IJnSSvJSuTyGyqjG40zQFla7Pug8G0q?usp=sharing
+Participants videos: https://drive.google.com/drive/folders/1-IJnSSvJSuTyGyqjG40zQFla7Pug8G0q?usp=sharing
